@@ -101,8 +101,8 @@ My expertise lies in **LLM-based architectures**, **agentic AI**, and **enterpri
 
 ### 📫 Connect with Me
 
-- 📧 **Email:** yourname@email.com  
-- 🔗 **LinkedIn:** [Santhakumaran C](https://linkedin.com/in/analystcskumaran)  
+- 📧 **Email:** duraikumaran41@gmail.com 
+- 🔗 **LinkedIn:** [Santhakumaran C](https://www.linkedin.com/in/cskumaranit?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 - 💻 **GitHub:** [analystcskumaran](https://github.com/analystcskumaran)
 
 ---
