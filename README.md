@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/4kLE7pV.png" alt="AI & Automation Banner" />
+  <img src="https://raw.githubusercontent.com/Akshay090/svg-banners/master/banners/data-science-banner.svg" alt="Data Science & Automation Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Santhakumaran C</h1>
