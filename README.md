@@ -7,7 +7,8 @@
 <h3 align="center">AI & ML Engineer | Building Intelligent, Automated, and Scalable Systems</h3>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="400" alt="AI Animation">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2ZsZXp5d2cwYXVrOWp0OGk2amJ6ZjQ1Nm50cXRwOWQ0a3Nqa3ZyNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="400" alt="AI Brain Animation"/>
+  
 </p>
 
 <p align="center">
