@@ -1,13 +1,13 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://tse4.mm.bing.net/th?id=OIP.eki6iBo-DjwF3L7g6ZHigAHaC0&pid=Api&P=0&h=180" />
+  <img src="https://i.imgur.com/4kLE7pV.png" alt="AI & Automation Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Santhakumaran C</h1>
 <h3 align="center">AI & ML Engineer | Building Intelligent, Automated, and Scalable Systems</h3>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="400">
+  <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="400" alt="AI Animation">
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=analystcskumaran" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=analystcskumaran&theme=algolia&margin-w=10" alt="GitHub Trophies" />
   </a>
 </p>
 
