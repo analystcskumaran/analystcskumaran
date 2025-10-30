@@ -8,7 +8,6 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2ZsZXp5d2cwYXVrOWp0OGk2amJ6ZjQ1Nm50cXRwOWQ0a3Nqa3ZyNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="400" alt="AI Brain Animation"/>
-  
 </p>
 
 <p align="center">
