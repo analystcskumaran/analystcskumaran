@@ -7,9 +7,8 @@
 <h3 align="center">AI & ML Engineer | Building Intelligent, Automated, and Scalable Systems</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2ZsZXp5d2cwYXVrOWp0OGk2amJ6ZjQ1Nm50cXRwOWQ0a3Nqa3ZyNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="400" alt="AI Brain Animation"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDNxOXNhZDJuOXVtNjUwc2lqOWRvdm4zMWo3bGcwYWR5azlsdTdyMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Neural Network Animation"/>
 </p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=analystcskumaran&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
