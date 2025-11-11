@@ -4,12 +4,11 @@
 <h1 align="center">Hi 👋, I'm Santhakumaran C</h1>
 <h3 align="center">AI & ML Engineer | Building Intelligent, Automated, and Scalable Systems</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2ZsZXp5d2cwYXVrOWp0OGk2amJ6ZjQ1Nm50cXRwOWQ0a3Nqa3ZyNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="400" alt="AI Brain Animation"/>
-</p>
+<p align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2ZsZXp5d2cwYXVrOWp0OGk2amJ6ZjQ1Nm50cXRwOWQ0a3Nqa3ZyNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="600" alt="xAI Grok Brain Animation"/> </p>
+
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=analystcskumaran&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gruvbox" alt="Profile views" />
 </p>
 
 <p align="center">
