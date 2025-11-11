@@ -4,7 +4,10 @@
 <h1 align="center">Hi 👋, I'm Santhakumaran C</h1>
 <h3 align="center">AI & ML Engineer | Building Intelligent, Automated, and Scalable Systems</h3>
 
-<p align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2ZsZXp5d2cwYXVrOWp0OGk2amJ6ZjQ1Nm50cXRwOWQ0a3Nqa3ZyNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="600" alt="xAI Grok Brain Animation"/> </p>
+
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWh2aW8xcW1nb2p0NG1kcjZsdm1vdGtxdHA4MTBqajVjeHlka2tsYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Data Flow Technology GIF"/>
+</p>
 
 
 <p align="center">
