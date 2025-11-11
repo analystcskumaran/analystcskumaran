@@ -1,7 +1,5 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Akshay090/svg-banners/master/banners/data-science-banner.svg" alt="Data Science & Automation Banner" />
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Santhakumaran C</h1>
 <h3 align="center">AI & ML Engineer | Building Intelligent, Automated, and Scalable Systems</h3>
