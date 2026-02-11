@@ -9,11 +9,11 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWh2aW8xcW1nb2p0NG1kcjZsdm1vdGtxdHA4MTBqajVjeHlka2tsYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Data Flow Technology GIF"/>
 </p>
 
-
+<!--
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gruvbox" alt="Profile views" />
 </p>
-
+-->
 
 
 ---
