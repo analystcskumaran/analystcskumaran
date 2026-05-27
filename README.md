@@ -108,21 +108,7 @@ My expertise lies in **LLM-based architectures**, **agentic AI**, and **enterpri
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=analystcskumaran&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=analystcskumaran&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=analystcskumaran" alt="GitHub Streak" />
-</p>
-
----
 
 <p align="center">
   <b>⭐ Let's build the future of AI together!</b>
